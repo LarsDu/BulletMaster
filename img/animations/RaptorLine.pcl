@@ -1,0 +1,32 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="2"/>
+    <currentFrame value="3"/>
+    <currentFps value="12"/>
+    <currentView dx="0" dy="0" m21="0" m11="0.3867410234545012" m22="0.3867410234545012" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="1" type="1" id="1" name="Bitmap Layer">
+      <image topLeftX="-312" topLeftY="-113" frame="1" src="001.001.png"/>
+      <image topLeftX="-312" topLeftY="-98" frame="2" src="001.002.png"/>
+      <image topLeftX="-314" topLeftY="-79" frame="3" src="001.003.png"/>
+      <image topLeftX="-317" topLeftY="-96" frame="4" src="001.004.png"/>
+      <image topLeftX="-326" topLeftY="-100" frame="5" src="001.005.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="2" name="Bitmap Layer">
+      <image topLeftX="-258" topLeftY="68" frame="1" src="002.001.png"/>
+      <image topLeftX="-71" topLeftY="70" frame="2" src="002.002.png"/>
+      <image topLeftX="-141" topLeftY="67" frame="3" src="002.003.png"/>
+      <image topLeftX="-117" topLeftY="44" frame="4" src="002.004.png"/>
+      <image topLeftX="6" topLeftY="43" frame="5" src="002.005.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="3" name="Bitmap Layer">
+      <image topLeftX="-162" topLeftY="19" frame="1" src="003.001.png"/>
+      <image topLeftX="-128" topLeftY="-9" frame="2" src="003.002.png"/>
+      <image topLeftX="-79" topLeftY="42" frame="3" src="003.003.png"/>
+      <image topLeftX="-90" topLeftY="22" frame="4" src="003.004.png"/>
+      <image topLeftX="-103" topLeftY="6" frame="5" src="003.005.png"/>
+    </layer>
+  </object>
+</document>

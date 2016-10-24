@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="8" height="8" tilewidth="32" tileheight="32" nextobjectid="9">
+ <tileset firstgid="1" name="32x32_orange" tilewidth="32" tileheight="32">
+  <image source="../img/32x32_orange.png" width="32" height="32"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="solid"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="2" name="proto" tilewidth="64" tileheight="64">
+  <image source="../img/proto.png" width="64" height="64"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="hero_spawn"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="3" name="protobaddie" tilewidth="64" tileheight="64">
+  <image source="../img/protobaddie.png" width="64" height="64"/>
+  <tile id="0">
+   <properties>
+    <property name="type" value="hornworm"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="8" height="8">
+  <data encoding="base64">
+   AAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAAEAAAABAAAAAQAAAA==
+  </data>
+ </layer>
+ <objectgroup name="Entities">
+  <object id="5" gid="2" x="11" y="158"/>
+  <object id="6" gid="2147483651" x="177.5" y="158"/>
+  <object id="7" gid="3" x="100.5" y="125">
+   <properties>
+    <property name="HEALTH" value="300"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

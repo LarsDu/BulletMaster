@@ -1,0 +1,28 @@
+<!DOCTYPE PencilDocument>
+<document>
+  <editor>
+    <currentLayer value="0"/>
+    <currentFrame value="5"/>
+    <currentFps value="7"/>
+    <currentView dx="-53" dy="-4" m21="0" m11="1" m22="1" m12="0"/>
+  </editor>
+  <object>
+    <layer visibility="1" type="1" id="4" name="Cockpit">
+      <image topLeftX="-202" topLeftY="-261" frame="1" src="004.001.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="5" name="R.Leg">
+      <image topLeftX="-249" topLeftY="-127" frame="1" src="005.001.png"/>
+      <image topLeftX="-147" topLeftY="-72" frame="2" src="005.002.png"/>
+      <image topLeftX="-61" topLeftY="-113" frame="3" src="005.003.png"/>
+      <image topLeftX="-153" topLeftY="-103" frame="4" src="005.004.png"/>
+      <image topLeftX="-185" topLeftY="-214" frame="5" src="005.005.png"/>
+    </layer>
+    <layer visibility="1" type="1" id="1" name="L.Leg">
+      <image topLeftX="-72" topLeftY="-130" frame="1" src="001.001.png"/>
+      <image topLeftX="-76" topLeftY="-126" frame="2" src="001.002.png"/>
+      <image topLeftX="-189" topLeftY="-125" frame="3" src="001.003.png"/>
+      <image topLeftX="-341" topLeftY="-124" frame="4" src="001.004.png"/>
+      <image topLeftX="-163" topLeftY="-214" frame="5" src="001.005.png"/>
+    </layer>
+  </object>
+</document>

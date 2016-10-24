@@ -1,0 +1,19 @@
+//First test map
+//SOLID = 1;
+//JTSOLID =2; //Solid on top but can be jumped through on bottom
+//WATER = 3;
+//SPRING1 =4;
+//SPRING2 = 5;
+//ANTIGRAV1 = 6;
+//OCEANBG = 7;
+111111111            111111111111111111111111
+
+
+
+
+                  2222222
+               2222222222
+1111111   111111111111111111111111111111111111
+
+
+1111111111111111111111111111111111111111111111
