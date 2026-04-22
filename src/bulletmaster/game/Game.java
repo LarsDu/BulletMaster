@@ -60,7 +60,7 @@ public class Game extends Canvas implements Runnable{
 		//init() is Called under Game.run()
 		input = new InputHandler(this);
 		screen = new Screen((WIDTH*SCALE), (HEIGHT*SCALE));	
-		level = loadLevelTmx("/home/ladu/Code/BulletMaster/levels/curved.tmx");
+		level = loadLevelTmx("levels/curved.tmx");
 		camera = new Camera(WIDTH, HEIGHT, level.getWidth(), level.getHeight());
 		
 		//Tell us about the current level.
